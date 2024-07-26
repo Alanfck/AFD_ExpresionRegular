@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/Alanfck/AFD_ExpresionRegular/new/
+https://raw.githubusercontent.com/Alanfck/AFD_ExpresionRegular/AFD_traductores.png
